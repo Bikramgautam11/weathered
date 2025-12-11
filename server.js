@@ -8,7 +8,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Discord webhook URL (replace with your actual one)
-const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1447973219695853689/nBrVPCxNDpDKQEEpgqRBCtbtO9CKnxTcb-u9qxPbmQVyTvrmJ1Zd60SFF_IQCuSv5Zxa';
+const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1448817785361666203/RZosrcEqUrIAWDHLjF88sNbDwKSe1cJ4KILU9HmhlgNymC0XjRooJLF_-wbnD-_DOAK6';
 //  Thresholds for alerts
 const TEMP_THRESHOLD = 30.0;   // °C
 const HUM_THRESHOLD  = 20.0;   // %
